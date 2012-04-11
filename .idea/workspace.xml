@@ -67,10 +67,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_form.html.erb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_form.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/surveys/_form.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="35" selection-start="619" selection-end="619" vertical-scroll-proportion="0.6127886">
+            <state line="23" column="35" selection-start="619" selection-end="619" vertical-scroll-proportion="-14.375">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="20120216041859_setup_hstore.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/db/migrate/20120216041859_setup_hstore.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="3" selection-start="164" selection-end="164" vertical-scroll-proportion="0.2044293">
               <folding />
             </state>
           </provider>
@@ -110,6 +119,7 @@
         <option value="$PROJECT_DIR$/app/views/surveys/show.html.erb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20120216041858_setup_hstore.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20120216041859_setup_hstore.rb" />
       </list>
     </option>
   </component>
@@ -661,7 +671,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/surveys/_form.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="35" selection-start="619" selection-end="619" vertical-scroll-proportion="0.6127886">
+        <state line="23" column="35" selection-start="619" selection-end="619" vertical-scroll-proportion="-14.375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20120216041859_setup_hstore.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="3" selection-start="164" selection-end="164" vertical-scroll-proportion="0.2044293">
           <folding />
         </state>
       </provider>
